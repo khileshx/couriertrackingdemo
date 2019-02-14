@@ -7,7 +7,7 @@ from urllib.request import urlopen
 
 #ctypes.windll.user32.MessageBoxW(0,"Result poker has started (pythonw.exe)", "Result Poker", 0)
 poke_count = 1
-r_url = "http://www.indiapost.gov.in/SpeedNetTracking.aspx?articlenumber=EM004496758IN"
+r_url = "http://www.indiapost.gov.in/SpeedNetTracking.aspx?articlenumber=yourtrackingnumber"
 
 while True:
     try:
